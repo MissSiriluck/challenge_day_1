@@ -1,0 +1,17 @@
+html,
+body {
+  background-color: #0e182c;
+  font-size: 14px;
+}
+
+#bg_card {
+  background-color: #16263e;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  --bs-gutter-x: 0;
+}
+
+img {
+  border-radius: 10px;
+  --bs-gutter-x: 0;
+}
